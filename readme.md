@@ -4,7 +4,7 @@
 
 process-manager is a module for simple node.js and io.js process management, and wraps the cluster module.
 
-Previously called SPaM (https://github.com/iandotkelly/spam)
+Previously called SPaM ([https://github.com/iandotkelly/spam](https://github.com/iandotkelly/spam))
 
 ## Use
 
