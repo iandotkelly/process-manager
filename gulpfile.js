@@ -13,7 +13,7 @@ var cover = require('gulp-coverage');
 var coveralls = require('gulp-coveralls');
 
 // set coveralls environmental variable
-process.env['COVERALLS_REPO_TOKEN'] = '';
+process.env['COVERALLS_REPO_TOKEN'] = 'KOEBG8LlJ4qTTNIX4LEwBh1Xm4SVshXDF';
 
 /**
  * Linting task
