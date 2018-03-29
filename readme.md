@@ -109,7 +109,7 @@ $ cd node_modules/process-manager
 $ npm install
 $ npm test
 ```
-If you contribute to the project, tests are written in [mocha](http://visionmedia.github.com/mocha/), using [should.js](https://github.com/visionmedia/should.js/) or the node.js assert module.
+If you contribute to the project, tests are written in [mocha](http://mochajs.org/), using [should.js](https://github.com/visionmedia/should.js/) or the node.js assert module.
 
 Coverage can be measured using the [node-jscoverage](https://github.com/visionmedia/node-jscoverage) project.  After installing jscoverage from github, just:
 ```sh
